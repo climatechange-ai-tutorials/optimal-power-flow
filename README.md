@@ -6,7 +6,7 @@ Author(s):
 * Utkarsha Agwan, University of California, Berkeley, uagwan@berkeley.edu
 * Panos Moutis, Climate Change AI, panay1ot1s@climatechange.ai
 
-Presented at Climate Change AI Summer School 2023
+Originally presented at Climate Change AI Summer School 2023
 
 ## Access this tutorial
 
