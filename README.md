@@ -5,6 +5,7 @@ Author(s):
 * Jorge Montalvo, Climate Change AI, jorge@climatechange.ai
 * Utkarsha Agwan, University of California, Berkeley, uagwan@berkeley.edu
 * Panos Moutis, Climate Change AI, panay1ot1s@climatechange.ai
+* Enming Liang, City University of Hong Kong, enming.cityu@gmail.com
 
 Originally presented at Climate Change AI Summer School 2023
 
@@ -31,18 +32,18 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Montalvo, J., Agwan, U., & Moutis, P. (2023). AI for Optimal Power Flow [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11625004
+Montalvo, J., Agwan, U., Moutis, P., Liang, E. (2024). AI for Optimal Power Flow [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.13119828
 
 ### BibTeX
 
 ```
-@misc{montalvo2023ai,
+@misc{montalvo2024ai,
   title={AI for Optimal Power Flow},
-  author={Montalvo, Jorge and Agwan, Utkarsha and Moutis, Panos},
-  year={2023},
+  author={Montalvo, Jorge and Agwan, Utkarsha and Moutis, Panos and Liang, Enming},
+  year={2024},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11625004},
+  doi={https://doi.org/10.5281/zenodo.13119828},
   booktitle={Climate Change AI Summer School},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/optimal-power-flow}}
 }
